@@ -1,6 +1,6 @@
 ### 👋 Hello there! I am Vishal Vyas
 
-💻 I have expertise in DevOps and cloud platform. I am having 10 year plus experience in technology field.
+💻  I am a DevOps and cloud computing expert. I have been working on a variety of technologies.
 
 ##  **My Certifications 🏅**
 - [AWS Certified: Solutions Architect – Associate](https://www.credly.com/badges/3199ef68-8a22-4c75-8044-5fa4483a8238)
