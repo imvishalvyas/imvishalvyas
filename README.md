@@ -22,8 +22,8 @@
 <hr>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/imvishalvyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvinsoni30" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/imvishalvyas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhruvinksoni/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/iamvishalvyas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dhruvin.soni.75/" height="30" width="40" /></a>
-<a href="/https://www.instagram.com/imvishalvyas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dhruvin.4530/" height="30" width="40" /></a>
+<a href="https://twitter.com/imvishalvyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imvishalvyas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/imvishalvyas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imvishalvyas/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/iamvishalvyas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/iamvishalvyas/" height="30" width="40" /></a>
+<a href="/https://www.instagram.com/imvishalvyas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/imvishalvyas/" height="30" width="40" /></a>
 </p>
